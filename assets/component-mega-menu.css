@@ -3,11 +3,13 @@
 }
 
 .mega-menu__content {
+  transition: all 1000ms ease ;
   background-color: rgb(var(--color-background));
   border-left: 0;
   border-radius: 0;
   border-right: 0;
   left: 0;
+  display: block;
   overflow-y: auto;
   padding-bottom: 2.4rem;
   padding-top: 2.4rem;
