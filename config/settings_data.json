@@ -1,6 +1,8 @@
 {
   "current": {
     "logo_width": 90,
+    "brand_headline": "Katukina",
+    "brand_description": "<p>Tribal Rapé, Mapacho, Kambo, Sananga, Shamanic Tools & Incenses<\/p>",
     "colors_solid_button_labels": "#ffffff",
     "colors_accent_1": "#ad7633",
     "gradient_accent_1": "",
@@ -106,8 +108,8 @@
     "sale_badge_color_scheme": "accent-2",
     "sold_out_badge_color_scheme": "inverse",
     "accent_icons": "text",
-    "social_facebook_link": "",
-    "social_instagram_link": "",
+    "social_facebook_link": "https:\/\/www.facebook.com\/katukinapage\/",
+    "social_instagram_link": "https:\/\/www.instagram.com\/katukinatribe\/",
     "social_youtube_link": "",
     "social_tiktok_link": "",
     "social_twitter_link": "",
