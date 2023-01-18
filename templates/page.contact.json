@@ -2,9 +2,56 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "c001bcd8-f4a3-42db-b58f-6a6472771dc0": {
+      "type": "image-banner",
+      "blocks": {
+        "template--17614239924504__c001bcd8-f4a3-42db-b58f-6a6472771dc0-1674083911e03e248d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Contact Us",
+            "heading_size": "h1"
+          }
+        },
+        "template--17614239924504__c001bcd8-f4a3-42db-b58f-6a6472771dc0-1674083911e03e248d-1": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--17614239924504__c001bcd8-f4a3-42db-b58f-6a6472771dc0-1674083911e03e248d-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17614239924504__c001bcd8-f4a3-42db-b58f-6a6472771dc0-1674083911e03e248d-0",
+        "template--17614239924504__c001bcd8-f4a3-42db-b58f-6a6472771dc0-1674083911e03e248d-1",
+        "template--17614239924504__c001bcd8-f4a3-42db-b58f-6a6472771dc0-1674083911e03e248d-2"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "form": {
@@ -20,6 +67,7 @@
   },
   "order": [
     "main",
+    "c001bcd8-f4a3-42db-b58f-6a6472771dc0",
     "form"
   ]
 }
