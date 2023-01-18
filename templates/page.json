@@ -6,9 +6,36 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "3fb81896-855e-460a-b061-e064065eff18": {
+      "type": "image-banner",
+      "blocks": {
+        "template--17614240088344__3fb81896-855e-460a-b061-e064065eff18-1674084321c3b9c5f6-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "About Us",
+            "heading_size": "h0"
+          }
+        }
+      },
+      "block_order": [
+        "template--17614240088344__3fb81896-855e-460a-b061-e064065eff18-1674084321c3b9c5f6-0"
+      ],
+      "settings": {
+        "image_overlay_opacity": 50,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "3fb81896-855e-460a-b061-e064065eff18"
   ]
 }
