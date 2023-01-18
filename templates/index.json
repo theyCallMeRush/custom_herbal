@@ -7,9 +7,9 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/2057-4771_01.jpg",
-            "heading": "Image slide",
+            "heading": "Make Your Own Rapé",
             "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
+            "subheading": "Rapé preparations are usually based on two distinct ingredients: Tabaco and ashes, which can be mixed with a wide variety of other aromatic or medicinal components to your liking.",
             "button_label": "Button label",
             "link": "",
             "button_style_secondary": false,
@@ -78,7 +78,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "accent-2",
+        "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 40
