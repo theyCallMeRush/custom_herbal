@@ -21,7 +21,7 @@
         "template--17614239924504__c001bcd8-f4a3-42db-b58f-6a6472771dc0-1674083911e03e248d-1": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "",
             "text_style": "body"
           }
         },
@@ -43,7 +43,8 @@
         "template--17614239924504__c001bcd8-f4a3-42db-b58f-6a6472771dc0-1674083911e03e248d-2"
       ],
       "settings": {
-        "image_overlay_opacity": 0,
+        "image": "shopify:\/\/shop_images\/slide.jpg",
+        "image_overlay_opacity": 50,
         "image_height": "small",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
