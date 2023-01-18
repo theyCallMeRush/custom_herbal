@@ -29,14 +29,114 @@
     },
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
+      }
+    },
+    "c179f949-e717-48ea-9af2-335e4df6fc6c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17614240088344__c179f949-e717-48ea-9af2-335e4df6fc6c-16740843224c93f801-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Talk about your brand<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--17614240088344__c179f949-e717-48ea-9af2-335e4df6fc6c-16740843224c93f801-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We come from a lineage of ethnobotanical collectors and providers <br\/>that operate since the year 2000. It is 12 years ago that we started <br\/>collecting and researching Rapé. As a result we established Katukina.com<br\/> early 2015, when Rapé was a rare underground commodity, and hardly <br\/>available online. Now, almost 7 years onwards we proudly continue to <br\/>offer our abundant variety of Rapé's, ashes and Tabaco powders from <br\/>their original tribal sources in Acre, Brazil. Additionally, Kuripe and <br\/>Tepi (Rapé blowpipes) and rare shamanic items such as Kambo, Sananga, <br\/>Piri Piri, Dragon's Blood, Mapacho, Palo Santo and other shamanic <br\/>incenses, teas, spices, superfoods, health promoted tonics and visionary<br\/> art forms can be found on our website.<\/p><p>Our company name originates from the Katukina tribe, who inhabit the <br\/>Amazonas and Acre region. This tribe is known for their connection with <br\/>the Kambo frog and their traditional Rapé varieties. The Katukina carry a<br\/> vast knowledge about plants, which they received from the spirit <br\/>beings. In their view, every human being is driven by finding a balanced<br\/> relationship with its distinct surrounding, including men, animals, and<br\/> spirits. We honour the Katukina tribe as they initiated the spread of <br\/>indigenous tools and knowledge into our urban areas, thereby making <br\/>these rare shamanic tools possible and available. <\/p><p>We have close connections with tribes in the Amazon basin and we <br\/>support the Apurina, Yawanawa, Katukina, Kaxinawa, Shanenawa, <br\/>Shawandawa, Kallawaya, Nukini, Kuntanawa, Shipibo, Matses and many other<br\/> tribes. All tribes produce their own specific type of Rapé, of which <br\/>each has a unique composition and character, and each serves a different<br\/> purpose. We have established a sustainable connection with these <br\/>tribes, where everyone involved benefits from the exchange. <\/p>"
+          }
+        },
+        "template--17614240088344__c179f949-e717-48ea-9af2-335e4df6fc6c-16740843224c93f801-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17614240088344__c179f949-e717-48ea-9af2-335e4df6fc6c-16740843224c93f801-0",
+        "template--17614240088344__c179f949-e717-48ea-9af2-335e4df6fc6c-16740843224c93f801-1",
+        "template--17614240088344__c179f949-e717-48ea-9af2-335e4df6fc6c-16740843224c93f801-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "e9b5f57d-09b2-446c-a513-b51d3c9643e9": {
+      "type": "multirow",
+      "blocks": {
+        "template--17614240088344__e9b5f57d-09b2-446c-a513-b51d3c9643e9-1674084321a0a6231e-0": {
+          "type": "row",
+          "settings": {
+            "caption": "",
+            "heading": "",
+            "text": "<p><strong>We come from a lineage of ethnobotanical collectors and providers that operate since the year 2000. It is 12 years ago that we started collecting and researching Rapé. As a result we established Katukina.com early 2015, when Rapé was a rare underground commodity, and hardly available online. Now, almost 7 years onwards we proudly continue to offer our abundant variety of Rapé's, ashes and Tabaco powders from their original tribal sources in Acre, Brazil. Additionally, Kuripe and Tepi (Rapé blowpipes) and rare shamanic items such as Kambo, Sananga, Piri Piri, Dragon's Blood, Mapacho, Palo Santo and other shamanic incenses, teas, spices, superfoods, health promoted tonics and visionary  art forms can be found on our website.<\/strong><\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--17614240088344__e9b5f57d-09b2-446c-a513-b51d3c9643e9-1674084321a0a6231e-1": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "template--17614240088344__e9b5f57d-09b2-446c-a513-b51d3c9643e9-1674084321a0a6231e-2": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17614240088344__e9b5f57d-09b2-446c-a513-b51d3c9643e9-1674084321a0a6231e-0",
+        "template--17614240088344__e9b5f57d-09b2-446c-a513-b51d3c9643e9-1674084321a0a6231e-1",
+        "template--17614240088344__e9b5f57d-09b2-446c-a513-b51d3c9643e9-1674084321a0a6231e-2"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "background-1",
+        "row_color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
   "order": [
     "3fb81896-855e-460a-b061-e064065eff18",
-    "main"
+    "main",
+    "c179f949-e717-48ea-9af2-335e4df6fc6c",
+    "e9b5f57d-09b2-446c-a513-b51d3c9643e9"
   ]
 }
