@@ -1,50 +1,57 @@
 {
   "sections": {
-    "image_banner": {
-      "type": "image-banner",
+    "d5f245b4-ff6e-4388-affa-66af61b797b6": {
+      "type": "slideshow",
       "blocks": {
-        "heading": {
-          "type": "heading",
+        "template--17614240383256__d5f245b4-ff6e-4388-affa-66af61b797b6-1674074971d52b513c-0": {
+          "type": "slide",
           "settings": {
-            "heading": "Katukina",
-            "heading_size": "h0"
+            "image": "shopify:\/\/shop_images\/2057-4771_01.jpg",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
           }
         },
-        "text": {
-          "type": "text",
+        "template--17614240383256__d5f245b4-ff6e-4388-affa-66af61b797b6-1674074971d52b513c-1": {
+          "type": "slide",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "button": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Shop all",
-            "button_link_1": "shopify:\/\/collections\/all",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "image": "shopify:\/\/shop_images\/2021-4735_01.jpg",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
           }
         }
       },
       "block_order": [
-        "heading",
-        "text",
-        "button"
+        "template--17614240383256__d5f245b4-ff6e-4388-affa-66af61b797b6-1674074971d52b513c-0",
+        "template--17614240383256__d5f245b4-ff6e-4388-affa-66af61b797b6-1674074971d52b513c-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/custom_resized_c955ee01-1485-4340-95e7-9ff918204c83.jpg",
-        "image_overlay_opacity": 40,
-        "image_height": "large",
-        "desktop_content_position": "top-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
+        "layout": "full_bleed",
+        "slide_height": "small",
+        "slider_visual": "numbers",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
       }
     },
     "rich_text": {
@@ -53,14 +60,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Talk about your brand<\/p>",
+            "heading": "<p> Katukina<\/p>",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Ever been curious how to make your own blend of Rapé? Rapé preparations are usually based on two distinct ingredients: Tabaco and ashes, which can be mixed with a wide variety of other aromatic or medicinal components to your liking.<\/p>"
           }
         }
       },
@@ -71,10 +78,10 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-2",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 0
+        "padding_bottom": 40
       }
     },
     "featured_collection": {
@@ -104,52 +111,14 @@
         "padding_bottom": 36
       }
     },
-    "collage": {
-      "type": "collage",
-      "blocks": {
-        "collection-0": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "product": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "second_image": false
-          }
-        },
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection-0",
-        "product",
-        "collection-1"
-      ],
-      "settings": {
-        "heading": "Multimedia collage",
-        "heading_size": "h2",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "card_styles": "product-card-wrapper",
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "multicolumn": {
       "type": "multicolumn",
       "blocks": {
         "column1": {
           "type": "column",
           "settings": {
-            "title": "Column",
+            "image": "shopify:\/\/shop_images\/1705-5255_01.jpg",
+            "title": "What is Rapé?",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
@@ -158,7 +127,7 @@
         "column2": {
           "type": "column",
           "settings": {
-            "title": "Column",
+            "title": "How to Blend your own Rapé ?",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
@@ -167,7 +136,7 @@
         "column3": {
           "type": "column",
           "settings": {
-            "title": "Column",
+            "title": "What is Sananga?",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
@@ -222,10 +191,9 @@
     }
   },
   "order": [
-    "image_banner",
+    "d5f245b4-ff6e-4388-affa-66af61b797b6",
     "rich_text",
     "featured_collection",
-    "collage",
     "multicolumn",
     "0442a67f-b6cf-42b7-93ec-dd31e9ac1d66"
   ]
