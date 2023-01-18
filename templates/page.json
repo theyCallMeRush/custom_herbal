@@ -93,10 +93,10 @@
         "template--17614240088344__e9b5f57d-09b2-446c-a513-b51d3c9643e9-1674084321a0a6231e-1": {
           "type": "row",
           "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
+            "caption": "",
+            "heading": "",
+            "text": "<p><strong>Our company name originates from the Katukina tribe, who inhabit the Amazonas and Acre region. This tribe is known for their connection with the Kambo frog and their traditional Rapé varieties. The Katukina carry a vast knowledge about plants, which they received from the spirit beings. In their view, every human being is driven by finding a balanced relationship with its distinct surrounding, including men, animals, and spirits. We honour the Katukina tribe as they initiated the spread of indigenous tools and knowledge into our urban areas, thereby making these rare shamanic tools possible and available. <\/strong><\/p>",
+            "button_label": "",
             "button_link": ""
           }
         },
