@@ -21,24 +21,6 @@
             "text_alignment_mobile": "center"
           }
         },
-        "template--17614240383256__d5f245b4-ff6e-4388-affa-66af61b797b6-1674074971d52b513c-1": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/2021-4735_01.jpg",
-            "heading": "How to Blend Your Own Rapé",
-            "heading_size": "h1",
-            "subheading": "Follow along with our tutorial",
-            "button_label": "Read More",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 60,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
         "dc9fc14c-e1ef-43d6-a729-0963c3b2ff6a": {
           "type": "slide",
           "settings": {
@@ -56,12 +38,30 @@
             "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
+        },
+        "template--17614240383256__d5f245b4-ff6e-4388-affa-66af61b797b6-1674074971d52b513c-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2021-4735_01.jpg",
+            "heading": "How to Blend Your Own Rapé",
+            "heading_size": "h1",
+            "subheading": "Follow along with our tutorial",
+            "button_label": "Read More",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 60,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
         "template--17614240383256__d5f245b4-ff6e-4388-affa-66af61b797b6-1674074971d52b513c-0",
-        "template--17614240383256__d5f245b4-ff6e-4388-affa-66af61b797b6-1674074971d52b513c-1",
-        "dc9fc14c-e1ef-43d6-a729-0963c3b2ff6a"
+        "dc9fc14c-e1ef-43d6-a729-0963c3b2ff6a",
+        "template--17614240383256__d5f245b4-ff6e-4388-affa-66af61b797b6-1674074971d52b513c-1"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -99,90 +99,10 @@
         "padding_top": 28,
         "padding_bottom": 36
       }
-    },
-    "multicolumn": {
-      "type": "multicolumn",
-      "blocks": {
-        "column1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/1705-5255_01.jpg",
-            "title": "What is Rapé?",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column2": {
-          "type": "column",
-          "settings": {
-            "title": "How to Blend your own Rapé ?",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column3": {
-          "type": "column",
-          "settings": {
-            "title": "What is Sananga?",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column1",
-        "column2",
-        "column3"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "0442a67f-b6cf-42b7-93ec-dd31e9ac1d66": {
-      "type": "video-background",
-      "blocks": {
-        "template--17613399425304__0442a67f-b6cf-42b7-93ec-dd31e9ac1d66-1674002232b0a86ff9-0": {
-          "type": "video",
-          "settings": {
-            "video_link": "shopify:\/\/files\/videos\/bg_video.mp4",
-            "overlay_opacity": 0,
-            "title": "Video slide",
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
-            "color_text": "#ffffff",
-            "button_label": "",
-            "button_link": "",
-            "color_btn_bg": "#ffffff",
-            "color_btn_text": "#ffffff"
-          }
-        }
-      },
-      "block_order": [
-        "template--17613399425304__0442a67f-b6cf-42b7-93ec-dd31e9ac1d66-1674002232b0a86ff9-0"
-      ],
-      "settings": {
-      }
     }
   },
   "order": [
     "d5f245b4-ff6e-4388-affa-66af61b797b6",
-    "featured_collection",
-    "multicolumn",
-    "0442a67f-b6cf-42b7-93ec-dd31e9ac1d66"
+    "featured_collection"
   ]
 }
