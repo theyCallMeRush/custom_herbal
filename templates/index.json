@@ -103,7 +103,7 @@
     "8a1535d2-9f3a-4da4-a874-362195fcd665": {
       "type": "featured-blog",
       "settings": {
-        "heading": "Blog posts",
+        "heading": "Documents worth reading",
         "heading_size": "h1",
         "blog": "news",
         "post_limit": 3,
