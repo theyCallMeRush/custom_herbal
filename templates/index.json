@@ -73,6 +73,48 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
+    "ad90e237-1d2a-4b06-93b2-29926ea14f2f": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17614240383256__ad90e237-1d2a-4b06-93b2-29926ea14f2f-16741695087d75d832-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Talk about your brand<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--17614240383256__ad90e237-1d2a-4b06-93b2-29926ea14f2f-16741695087d75d832-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Welcome to Sacred Soothsayer, your official source for authentic and traditional sacred medicines from the indigenous tribes of the Amazon. As the official US distributor of Katukina.com products, we offer the highest quality rapé snuff, kuripes, tepis, ambil, and sananga from Peru, Brazil, and other locations within the Amazon. Our carefully sourced products are authentic and effective for spiritual and physical well-being. Improve your overall health, connect with tradition, and enhance your meditation practice with our Amazonian sacred medicines. Browse our selection today and experience the healing power of the Amazon through Sacred Soothsayer.<\/p>"
+          }
+        },
+        "template--17614240383256__ad90e237-1d2a-4b06-93b2-29926ea14f2f-16741695087d75d832-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17614240383256__ad90e237-1d2a-4b06-93b2-29926ea14f2f-16741695087d75d832-0",
+        "template--17614240383256__ad90e237-1d2a-4b06-93b2-29926ea14f2f-16741695087d75d832-1",
+        "template--17614240383256__ad90e237-1d2a-4b06-93b2-29926ea14f2f-16741695087d75d832-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
@@ -154,6 +196,7 @@
   },
   "order": [
     "d5f245b4-ff6e-4388-affa-66af61b797b6",
+    "ad90e237-1d2a-4b06-93b2-29926ea14f2f",
     "featured_collection",
     "358a9695-81ba-4080-9f30-9052f2c4379b",
     "8a1535d2-9f3a-4da4-a874-362195fcd665"
