@@ -140,6 +140,15 @@
             "row_content": "<p>As we prepack all confirmed orders, we are able to ship immediately upon receiving payment. We are very fast with processing orders. <\/p>",
             "page": ""
           }
+        },
+        "e6673cb7-a392-4fe6-9c46-0c5c9ff34cc7": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How much does shipping cost?",
+            "icon": "question_mark",
+            "row_content": "<p>Shipping fees are automatically calculated during checkout and are based on the weight and volume of your order. <\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -151,7 +160,8 @@
         "2f4243d0-f064-42ba-b27d-1c1fd0d4e793",
         "e30f12f7-1fa2-4a59-9903-dad98e3e1a1e",
         "3cf09921-2fa7-4e64-88e9-9d5282a532cd",
-        "9c1b1707-6086-4c07-9374-5405645f3733"
+        "9c1b1707-6086-4c07-9374-5405645f3733",
+        "e6673cb7-a392-4fe6-9c46-0c5c9ff34cc7"
       ],
       "settings": {
         "caption": "",
