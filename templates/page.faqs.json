@@ -41,7 +41,7 @@
         "template--17626126811416__f2e4bf2d-4b64-425f-bf2c-19edf4f62c7c-16741695087d75d832-1": {
           "type": "text",
           "settings": {
-            "text": "<p>We are Sacred Soothsayer, your official source for authentic and traditional sacred medicines from the indigenous tribes of the Amazon and official US distributor of Katukina.com products. We have the intention to make the rarest shamanic tools available to humanity. At Katukina.com, we come from a lineage of ethnobotanical collectors and providers that operate since the year 2000 and it is 10 years ago that we started collecting and researching Rapé. As a result, Katukina.com was established early 2015, when Rapé was a rare underground commodity, and hardly available online. Now, 6 years onwards we proudly continue to offer our abundant variety of Rapé's, ashes and Tabaco powders from their original tribal sources in Acre, Brazil. You can find out more about us <a href=\"https:\/\/katukina.com\/about\"><span style=\"text-decoration:underline\">here.<\/span><\/a><\/p>"
+            "text": "<p><strong>We are Sacred Soothsayer, your official source for authentic and traditional sacred medicines from the indigenous tribes of the Amazon and official US distributor of Katukina.com products. We have the intention to make the rarest shamanic tools available to humanity. At Katukina.com, we come from a lineage of ethnobotanical collectors and providers that operate since the year 2000 and it is 10 years ago that we started collecting and researching Rapé. As a result, Katukina.com was established early 2015, when Rapé was a rare underground commodity, and hardly available online. Now, 6 years onwards we proudly continue to offer our abundant variety of Rapé's, ashes and Tabaco powders from their original tribal sources in Acre, Brazil. You can find out more about us here.<\/strong><\/p>"
           }
         }
       },
@@ -166,9 +166,9 @@
       "settings": {
         "caption": "",
         "heading": "",
-        "heading_size": "h1",
+        "heading_size": "h0",
         "heading_alignment": "center",
-        "layout": "none",
+        "layout": "row",
         "color_scheme": "background-1",
         "container_color_scheme": "background-2",
         "open_first_collapsible_row": false,
