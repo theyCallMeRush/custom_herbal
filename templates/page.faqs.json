@@ -119,7 +119,7 @@
           "settings": {
             "heading": "Do you guarantee the quality of the herbs I order?",
             "icon": "question_mark",
-            "row_content": "<p>We guarantee that our products are fresh, genuine, properly identified and labelled, and conform to common standards. We can not guarantee the effectiveness of the product as pertains to any particular use or purpose. We can not replace products or be held responsible for their effectiveness or lack thereof. Read our Disclaimer and our <span style=\"text-decoration:underline\">Terms & Conditions<\/span>for further information.<\/p>",
+            "row_content": "<p>We guarantee that our products are fresh, genuine, properly identified and labelled, and conform to common standards. We can not guarantee the effectiveness of the product as pertains to any particular use or purpose. We can not replace products or be held responsible for their effectiveness or lack thereof. Read our Disclaimer and our <span style=\"text-decoration:underline\">Terms & Conditions<\/span> for further information.<\/p>",
             "page": ""
           }
         },
@@ -165,7 +165,7 @@
       ],
       "settings": {
         "caption": "",
-        "heading": "Collapsible content",
+        "heading": "",
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "none",
