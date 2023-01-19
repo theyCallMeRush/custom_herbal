@@ -35,42 +35,109 @@
         "show_text_below": true
       }
     },
+    "f2e4bf2d-4b64-425f-bf2c-19edf4f62c7c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17626126811416__f2e4bf2d-4b64-425f-bf2c-19edf4f62c7c-16741695087d75d832-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We are Sacred Soothsayer, your official source for authentic and traditional sacred medicines from the indigenous tribes of the Amazon and official US distributor of Katukina.com products. We have the intention to make the rarest shamanic tools available to humanity. At Katukina.com, we come from a lineage of ethnobotanical collectors and providers that operate since the year 2000 and it is 10 years ago that we started collecting and researching Rapé. As a result, Katukina.com was established early 2015, when Rapé was a rare underground commodity, and hardly available online. Now, 6 years onwards we proudly continue to offer our abundant variety of Rapé's, ashes and Tabaco powders from their original tribal sources in Acre, Brazil. You can find out more about us <a href=\"https:\/\/katukina.com\/about\"><span style=\"text-decoration:underline\">here.<\/span><\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17626126811416__f2e4bf2d-4b64-425f-bf2c-19edf4f62c7c-16741695087d75d832-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "8f01ac6d-5449-438c-a813-ba5b672a6a2d": {
       "type": "collapsible-content",
       "blocks": {
         "template--17626126811416__8f01ac6d-5449-438c-a813-ba5b672a6a2d-1674169346239c8df0-0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "What is Rapé?",
+            "icon": "question_mark",
+            "row_content": "<p>Rapé is used to clear intentions and pave the way for detoxifying the body. It stimulates the nervous system and therefore enables the body to become more receptive to all levels of communication. Brain blood vessels will be dilated, leading to increased blood circulation and consequently to an increased focus and intuition. A greater universal understanding can be perceived that literally shakes the brain. Although a good blow of Rapé can be quite uncomfortable or even shocking, its process will bring one in a very grounded, mind-free state of being. You can find an extensive article about all the aspects of this powerful tool here: <a href=\"https:\/\/katukina.com\/doc\/rape\"><span style=\"text-decoration:underline\">What is Rapé<\/span><\/a>. <\/p>",
             "page": ""
           }
         },
         "template--17626126811416__8f01ac6d-5449-438c-a813-ba5b672a6a2d-1674169346239c8df0-1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "What is the use of Rapé?",
+            "icon": "question_mark",
+            "row_content": "<p>Rapé is used to clear intentions and pave the way for detoxifying the body. It stimulates the nervous system and therefore enables the body to become more receptive to all levels of communication. Brain blood vessels will be dilated, leading to increased blood circulation and consequently to an increased focus and intuition. A greater universal understanding can be perceived that literally shakes the brain. Although a good blow of Rapé can be quite uncomfortable or even shocking, its process will bring one in a very grounded, mind-free state of being. You can find an extensive article about all the aspects of this powerful tool here: <a href=\"https:\/\/katukina.com\/doc\/rape\"><span style=\"text-decoration:underline\">What is Rapé<\/span><\/a>. <\/p>",
             "page": ""
           }
         },
         "template--17626126811416__8f01ac6d-5449-438c-a813-ba5b672a6a2d-1674169346239c8df0-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "Are your Rapé's tribal and genuine?",
+            "icon": "question_mark",
+            "row_content": "<p>Absolutely. Our Rapé's come through four close friends that live and travel in Acre, Brazil. They are collectors and providers of tribal Rapé and they have been in the field with the tribes for decades. Over the course of the years together we established a close connection with numerous tribes, that are dedicated to keep providing us with their beautiful Rapé's, and who we keep supporting financially. We also offer some Rapé's that are produced by modern healers or neo shamanic practitioners in Brazil, who have learned the tradition from befriended tribes. It will be clearly pointed out in the description when a Rapé blend is from a \"non tribal\" source.<\/p>",
             "page": ""
           }
         },
         "template--17626126811416__8f01ac6d-5449-438c-a813-ba5b672a6a2d-1674169346239c8df0-3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "Do you make Rapé yourself?",
+            "icon": "question_mark",
+            "row_content": "<p>We have produced several creative and popular Rapé blends, which we assemble with genuine Rapé and tree ashes and Brazilian Tabaco, or simply by combining one or more tribal Rapé's in a mixture. When we do, it will be clearly pointed out in the description that it is a Rapé blend from our own making. Examples of Rapé that we have blended ourselves are: Clarity, Orchid Fever, Pineal Flush, Katukina Forca. We do not make blends made of ground herbs and tabaco and call it \"Rapé\".<\/p>",
+            "page": ""
+          }
+        },
+        "a0cd618c-e368-4f42-8224-755832f000d0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I make Rapé myself?",
+            "icon": "question_mark",
+            "row_content": "<p>Creating a Rapé from scratch is a complex process. Yet you can blend your own Rapé when you have all the neccesary materials in powdered form at hand. For this purpose we offer ashes and fine Tabaco powders from Acre, Brazil, which are the foundation of a strong, powerful Rapé. Detailed instructions and useful articles are: <a href=\"https:\/\/katukina.com\/doc\/blending\"><span style=\"text-decoration:underline\">Create and Blend Rapé<\/span><\/a>, and <a href=\"https:\/\/katukina.com\/doc\/rape\"><span style=\"text-decoration:underline\">What is Rapé<\/span><\/a>.<\/p>",
+            "page": ""
+          }
+        },
+        "2f4243d0-f064-42ba-b27d-1c1fd0d4e793": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you sell Rapé mixed with psychoactive plants?",
+            "icon": "question_mark",
+            "row_content": "<p>Certainly not. Rapé as we know it from Acre is not psychoactive nor should it contain psychoactive ingredients. We do not blend Rapé or Tabaco with hallucinogenic plants. Such over-creative blends are not according tradition and should not be placed in the same line as Rapé. Certain tribes in the Amazon use Cebil and Yopo as a hallucinogenic snuff, yet this is not named Rapé. We do not sell Cebil or Yopo. Use your clear judgement in your search for true Rapé.<\/p>",
+            "page": ""
+          }
+        },
+        "e30f12f7-1fa2-4a59-9903-dad98e3e1a1e": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you guarantee the quality of the herbs I order?",
+            "icon": "question_mark",
+            "row_content": "<p>We guarantee that our products are fresh, genuine, properly identified and labelled, and conform to common standards. We can not guarantee the effectiveness of the product as pertains to any particular use or purpose. We can not replace products or be held responsible for their effectiveness or lack thereof. Read our Disclaimer and our <span style=\"text-decoration:underline\">Terms & Conditions<\/span>for further information.<\/p>",
+            "page": ""
+          }
+        },
+        "3cf09921-2fa7-4e64-88e9-9d5282a532cd": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you include information in the package?",
+            "icon": "question_mark",
+            "row_content": "<p>Your package will contain the products you ordered and in all cases, a selection of free incenses or samples. We do not include any information on the application or purpose of the products. We do not include your invoice, nor any reference to this website. Your package will be discreet, professionally packed and plainly labelled.<\/p>",
+            "page": ""
+          }
+        },
+        "9c1b1707-6086-4c07-9374-5405645f3733": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How long between order and delivery?",
+            "icon": "question_mark",
+            "row_content": "<p>As we prepack all confirmed orders, we are able to ship immediately upon receiving payment. We are very fast with processing orders. <\/p>",
             "page": ""
           }
         }
@@ -79,7 +146,12 @@
         "template--17626126811416__8f01ac6d-5449-438c-a813-ba5b672a6a2d-1674169346239c8df0-0",
         "template--17626126811416__8f01ac6d-5449-438c-a813-ba5b672a6a2d-1674169346239c8df0-1",
         "template--17626126811416__8f01ac6d-5449-438c-a813-ba5b672a6a2d-1674169346239c8df0-2",
-        "template--17626126811416__8f01ac6d-5449-438c-a813-ba5b672a6a2d-1674169346239c8df0-3"
+        "template--17626126811416__8f01ac6d-5449-438c-a813-ba5b672a6a2d-1674169346239c8df0-3",
+        "a0cd618c-e368-4f42-8224-755832f000d0",
+        "2f4243d0-f064-42ba-b27d-1c1fd0d4e793",
+        "e30f12f7-1fa2-4a59-9903-dad98e3e1a1e",
+        "3cf09921-2fa7-4e64-88e9-9d5282a532cd",
+        "9c1b1707-6086-4c07-9374-5405645f3733"
       ],
       "settings": {
         "caption": "",
@@ -100,6 +172,7 @@
   "order": [
     "main",
     "3fb81896-855e-460a-b061-e064065eff18",
+    "f2e4bf2d-4b64-425f-bf2c-19edf4f62c7c",
     "8f01ac6d-5449-438c-a813-ba5b672a6a2d"
   ]
 }
