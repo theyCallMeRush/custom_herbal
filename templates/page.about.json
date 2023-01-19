@@ -1,0 +1,102 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "3fb81896-855e-460a-b061-e064065eff18": {
+      "type": "image-banner",
+      "blocks": {
+        "template--17614240088344__3fb81896-855e-460a-b061-e064065eff18-1674084321c3b9c5f6-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Frequently Asked Questions",
+            "heading_size": "h0"
+          }
+        }
+      },
+      "block_order": [
+        "template--17614240088344__3fb81896-855e-460a-b061-e064065eff18-1674084321c3b9c5f6-0"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/custom_resized_e2a7279f-8fd8-4c0a-b034-1dd02319e84c.jpg",
+        "image_overlay_opacity": 50,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "e9b5f57d-09b2-446c-a513-b51d3c9643e9": {
+      "type": "multirow",
+      "blocks": {
+        "template--17614240088344__e9b5f57d-09b2-446c-a513-b51d3c9643e9-1674084321a0a6231e-0": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/custom_resized_e2a7279f-8fd8-4c0a-b034-1dd02319e84c.jpg",
+            "caption": "",
+            "heading": "",
+            "text": "<p><strong>We come from a lineage of ethnobotanical collectors and providers that operate since the year 2000. It is 12 years ago that we started collecting and researching Rapé. As a result we established Katukina.com early 2015, when Rapé was a rare underground commodity, and hardly available online. Now, almost 7 years onwards we proudly continue to offer our abundant variety of Rapé's, ashes and Tabaco powders from their original tribal sources in Acre, Brazil. Additionally, Kuripe and Tepi (Rapé blowpipes) and rare shamanic items such as Kambo, Sananga, Piri Piri, Dragon's Blood, Mapacho, Palo Santo and other shamanic incenses, teas, spices, superfoods, health promoted tonics and visionary  art forms can be found on our website.<\/strong><\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--17614240088344__e9b5f57d-09b2-446c-a513-b51d3c9643e9-1674084321a0a6231e-1": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/custom_resized_5121584d-da4a-4561-838c-6af904e76afc.jpg",
+            "caption": "",
+            "heading": "",
+            "text": "<p><strong>Our company name originates from the Katukina tribe, who inhabit the Amazonas and Acre region. This tribe is known for their connection with the Kambo frog and their traditional Rapé varieties. The Katukina carry a vast knowledge about plants, which they received from the spirit beings. In their view, every human being is driven by finding a balanced relationship with its distinct surrounding, including men, animals, and spirits. We honour the Katukina tribe as they initiated the spread of indigenous tools and knowledge into our urban areas, thereby making these rare shamanic tools possible and available. <\/strong><\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--17614240088344__e9b5f57d-09b2-446c-a513-b51d3c9643e9-1674084321a0a6231e-2": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/custom_resized_bdabfaf5-21fc-43cf-8e37-089c020d6843.jpg",
+            "caption": "",
+            "heading": "",
+            "text": "<p><strong>We have close connections with tribes in the Amazon basin and we support the Apurina, Yawanawa, Katukina, Kaxinawa, Shanenawa, Shawandawa, Kallawaya, Nukini, Kuntanawa, Shipibo, Matses and many other tribes. All tribes produce their own specific type of Rapé, of which each has a unique composition and character, and each serves a different purpose. We have established a sustainable connection with these tribes, where everyone involved benefits from the exchange.<\/strong><\/p>",
+            "button_label": "]",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17614240088344__e9b5f57d-09b2-446c-a513-b51d3c9643e9-1674084321a0a6231e-0",
+        "template--17614240088344__e9b5f57d-09b2-446c-a513-b51d3c9643e9-1674084321a0a6231e-1",
+        "template--17614240088344__e9b5f57d-09b2-446c-a513-b51d3c9643e9-1674084321a0a6231e-2"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "background-1",
+        "row_color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "3fb81896-855e-460a-b061-e064065eff18",
+    "e9b5f57d-09b2-446c-a513-b51d3c9643e9"
+  ]
+}
