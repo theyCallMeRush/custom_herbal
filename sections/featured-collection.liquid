@@ -90,7 +90,7 @@
           </li>
         {%- else -%}
           {%- for i in (1..4) -%}
-            <li class="grid__item">
+            <li class="grid__item staggerItem">
               {% render 'card-product', show_vendor: section.settings.show_vendor %}
             </li>
           {%- endfor -%}
