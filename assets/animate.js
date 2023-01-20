@@ -57,7 +57,7 @@ const staggerGrid = () =>{
   
   timeline.staggerGrid(".staggerItem", {
     stagger: {
-      each: 0.05,
+      amount: 3,
       from: "center",
        ease: "power2.inOut",
       grid: auto,
