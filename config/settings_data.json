@@ -125,6 +125,8 @@
     "show_vendor": false,
     "show_cart_note": false,
     "cart_drawer_collection": "",
+    "checkout_header_image": "shopify:\/\/shop_images\/custom_resized_e2a7279f-8fd8-4c0a-b034-1dd02319e84c.jpg",
+    "checkout_sidebar_background_image": "shopify:\/\/shop_images\/pexels-gradienta-7130534_1.jpg",
     "checkout_accent_color": "#ad7633",
     "checkout_button_color": "#38270f",
     "sections": {
