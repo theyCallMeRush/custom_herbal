@@ -16,7 +16,7 @@
           "type": "link_list",
           "settings": {
             "heading": "Info",
-            "menu": "footer"
+            "menu": "footer-info-menu"
           }
         }
       },
