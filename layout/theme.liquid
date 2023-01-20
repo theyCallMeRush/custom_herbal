@@ -238,7 +238,6 @@
   </head>
 
   <body class="gradient">
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js"></script>
 
 {% include 'agechecker' %}
     <a class="skip-to-content-link button visually-hidden" href="#MainContent">
@@ -296,7 +295,7 @@
       <script src="{{ 'predictive-search.js' | asset_url }}" defer="defer"></script>
     {%- endif -%}
 
-
+<script src="{{ 'gsap.min.js' | asset_url }}" defer></script>
         <script src="{{ 'animate.js' | asset_url }}" defer="defer"></script>
 
   </body>
