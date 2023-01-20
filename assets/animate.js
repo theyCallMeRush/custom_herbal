@@ -30,40 +30,18 @@ const animateInView = () =>{
 
 
 const staggerGrid = () =>{
-    gsap.registerEffect({
-    name: "staggerGrid",
-    extendTimeline: true,
-    effect: (targets, config) => {
-      
-      console.log("config", config);    
-      
-      let animation = gsap.timeline();
-      
-      let delay = gsap.utils.distribute(config.stagger);
-      
-      targets.forEach((target, i) => {
-        
-        let tl = gsap.timeline()
-          .to(target, { opacity: 1, duration: 1 }, ">-0.5")        
-        
-        animation.add(tl, delay(i, target, targets));
-      });
-      
-      return animation;
-    }
-  });
-  
-  const timeline = gsap.timeline({ repeat: -1, repeatDelay: 0.5 });
-  
-  timeline.staggerGrid(".staggerItem", {
-    stagger: {
-      amount: 3,
-      from: "center",
-       ease: "power2.inOut",
-      grid: auto,
-    }
-  });
-
+  gsap.to(".staggerItem", {opacity: 0, y: 20})
+ gsap.to(".staggerItem", {
+  opacity: 1,
+   y: 20,
+  stagger: { // wrap advanced options in an object
+    each: 0.1,
+    from: "center",
+    grid: "auto",
+    ease: "power2.inOut",
+    repeat: -1 // Repeats immediately, not waiting for the other staggered animations to finish
+  }
+});
 
 }
 window.addEventListener("load", (event) => {
