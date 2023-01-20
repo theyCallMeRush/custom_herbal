@@ -170,6 +170,7 @@
     },
     "8a1535d2-9f3a-4da4-a874-362195fcd665": {
       "type": "featured-blog",
+      "disabled": true,
       "settings": {
         "heading": "Documents worth reading",
         "heading_size": "h1",
