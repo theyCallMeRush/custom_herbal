@@ -55,10 +55,11 @@ const staggerGrid = () =>{
   
   const timeline = gsap.timeline({ repeat: -1, repeatDelay: 0.5 });
   
-  timeline.staggerGrid(".grid__item", {
+  timeline.staggerGrid(".staggerItem", {
     stagger: {
       each: 0.05,
-      from: "center"
+      from: "center",
+       ease: "power2.inOut",
     }
   });
 
