@@ -3,6 +3,7 @@ const callback = (entries) => {
   entries.forEach((entry) => {
     if (entry.isIntersecting) {
       let elem = entry.target;
+        gsap.to(elem, {opacity: 0, y: -10});
 
       gsap.fromTo(elem, {opacity: 0, y: -10}, {opacity: 1, y: 0, duration: 0.3});
     }
