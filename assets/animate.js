@@ -44,7 +44,7 @@ const staggerGrid = () =>{
       targets.forEach((target, i) => {
         
         let tl = gsap.timeline()
-          .to(target, { opacity: 1, duration: 0.5 }, ">-0.5")        
+          .to(target, { opacity: 1, duration: 1 }, ">-0.5")        
         
         animation.add(tl, delay(i, target, targets));
       });
