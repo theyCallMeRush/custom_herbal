@@ -55,7 +55,42 @@ const staggerGrid = () =>{
   const timeline = gsap.timeline({ repeat: -1, repeatDelay: 0.5 });
   
   timeline.staggerGrid(".staggerItem", {
-    stagger: {
+    stagger: {gsap.registerEffect({
+  name: "slideAway",
+  extendTimeline: true,
+  effect: (targets, config) => {
+    
+    console.log("config", config);    
+    
+    let animation = gsap.timeline();
+    
+    let delay = gsap.utils.distribute(config.stagger);
+    
+    targets.forEach((target, i) => {
+      
+      let tl = gsap.timeline()
+        .to(target, { opacity: 1, duration: 0.5 })
+        .to(target, { y: 200, duration: 2 })
+        .to(target, { opacity: 0, duration: 0.5 }, ">-0.5");
+      
+      
+      animation.add(tl, delay(i, target, targets));
+    });
+    
+    return animation;
+  }
+});
+
+const timeline = gsap.timeline({ repeat: -1, repeatDelay: 0.5 });
+
+timeline.slideAway("ul>li", {
+  stagger: {
+    each: 0.05,
+    from: "center"
+  }
+});
+
+
       each: 0.05,
       from: "center"
     }
