@@ -1,3 +1,4 @@
+
 const callback = (entries) => {
   entries.forEach((entry) => {
     if (entry.isIntersecting) {
@@ -8,20 +9,20 @@ const callback = (entries) => {
   });
 }
 
+const animateInView = () =>{
+  let options = {
+    root: null,
+    threshold: 1.0
+  }
 
-
-let options = {
-  root: null,
-  threshold: 1.0
+  let observer = new IntersectionObserver(callback, options);
+  
+  const items = document.querySelectorAll('.animateInView')
+  
+  items.forEach((item)=>{
+        observer.observe(item)
+      })
+  
 }
-
-let observer = new IntersectionObserver(callback, options);
-
-const items = document.querySelectorAll('.animateInView')
-
-items.forEach((item)=>{
-      observer.observe(item)
-    })
-
 
 
