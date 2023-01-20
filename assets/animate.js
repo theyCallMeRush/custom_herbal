@@ -60,6 +60,7 @@ const staggerGrid = () =>{
       each: 0.05,
       from: "center",
        ease: "power2.inOut",
+      grid: auto,
     }
   });
 
