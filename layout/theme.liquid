@@ -302,7 +302,7 @@
                   if (entry.isIntersecting) {
                     let elem = entry.target;
               
-                    gsap.fromTo(elem, {opacity: 0, y: -10}, {opacity: 1, y: 0, duration: 0.3});
+                    gsap.fromTo(elem, {opacity: 0, y: 20}, {opacity: 1, y: 0, duration: 0.7});
                   }
                 });
               }
@@ -310,7 +310,7 @@
         const animateInView = () =>{
           let options = {
             root: null,
-            threshold: 1.0
+            threshold: 0.5
           }
         
           let observer = new IntersectionObserver(callback, options);
