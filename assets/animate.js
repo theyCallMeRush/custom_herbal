@@ -26,6 +26,46 @@ const animateInView = () =>{
 }
 
 
+
+
+const staggerGrid = () =>{
+    gsap.registerEffect({
+    name: "staggerGrid",
+    extendTimeline: true,
+    effect: (targets, config) => {
+      
+      console.log("config", config);    
+      
+      let animation = gsap.timeline();
+      
+      let delay = gsap.utils.distribute(config.stagger);
+      
+      targets.forEach((target, i) => {
+        
+        let tl = gsap.timeline()
+          .to(target, { opacity: 1, duration: 0.5 }, ">-0.5")        
+        
+        animation.add(tl, delay(i, target, targets));
+      });
+      
+      return animation;
+    }
+  });
+  
+  const timeline = gsap.timeline({ repeat: -1, repeatDelay: 0.5 });
+  
+  timeline.staggerGrid(".staggerItem", {
+    stagger: {
+      each: 0.05,
+      from: "center"
+    }
+  });
+
+
+}
 window.addEventListener("load", (event) => {
+  console.log("animate load")
   animateInView()
+
+  staggerGrid()
 }, false);
