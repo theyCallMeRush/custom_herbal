@@ -125,6 +125,8 @@
     "show_vendor": false,
     "show_cart_note": false,
     "cart_drawer_collection": "",
+    "checkout_accent_color": "#ad7633",
+    "checkout_button_color": "#38270f",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",
