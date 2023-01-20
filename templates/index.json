@@ -76,13 +76,6 @@
     "ad90e237-1d2a-4b06-93b2-29926ea14f2f": {
       "type": "rich-text",
       "blocks": {
-        "template--17614240383256__ad90e237-1d2a-4b06-93b2-29926ea14f2f-16741695087d75d832-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Talk about your brand<\/p>",
-            "heading_size": "h1"
-          }
-        },
         "template--17614240383256__ad90e237-1d2a-4b06-93b2-29926ea14f2f-16741695087d75d832-1": {
           "type": "text",
           "settings": {
@@ -92,8 +85,8 @@
         "template--17614240383256__ad90e237-1d2a-4b06-93b2-29926ea14f2f-16741695087d75d832-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "Shop Now",
+            "button_link": "shopify:\/\/collections\/all",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -102,7 +95,6 @@
         }
       },
       "block_order": [
-        "template--17614240383256__ad90e237-1d2a-4b06-93b2-29926ea14f2f-16741695087d75d832-0",
         "template--17614240383256__ad90e237-1d2a-4b06-93b2-29926ea14f2f-16741695087d75d832-1",
         "template--17614240383256__ad90e237-1d2a-4b06-93b2-29926ea14f2f-16741695087d75d832-2"
       ],
