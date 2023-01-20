@@ -774,6 +774,7 @@ summary .icon-caret {
   height: 0.6rem;
   right: 1.5rem;
   top: calc(50% - 0.2rem);
+  transition: transform .3s ease-in-out;
 }
 
 summary::-webkit-details-marker {
@@ -1780,6 +1781,7 @@ details[open] > .share-button__fallback {
   position: absolute;
   top: calc(50% - 0.2rem);
   right: calc(var(--inputs-border-width) + 1.5rem);
+  transition: transform .3s ease-in-out;
 }
 
 .select__select,
