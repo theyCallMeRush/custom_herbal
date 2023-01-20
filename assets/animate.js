@@ -26,3 +26,6 @@ const animateInView = () =>{
 }
 
 
+window.addEventListener("load", (event) => {
+  animateInView()
+}, false);
